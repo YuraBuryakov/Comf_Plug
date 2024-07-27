@@ -3,22 +3,20 @@
     "title": "C P",
     "description": "Test plugin for future comforttable plug",
     "authors": [
-      {
-      "name": "Kalibrovka_anusa"
-      }
+        {
+            "name": "Kalibrovka_anusa"
+        }
     ],
     "version": "1.0.0",
     "compatibility": {
-      "minimum": "10",
-      "verified": "11"
+        "minimum": "10",
+        "verified": "11"
     },
-
     "scripts": [
         "scripts/main.js"
     ],
-
     "socket": true,
     "url": "https://github.com/YuraBuryakov/Comf_Plug",
-    "manifest": "https://github.com/YuraBuryakov/Comf_Plug/blob/main/module.json",
-    "download": "https://github.com/YuraBuryakov/Comf_Plug/releases/tag/mcp/Comf_Plug-mcp.zip"
-  }
+    "manifest": "https://github.com/YuraBuryakov/Comf_Plug/releases/download/mcp/module.json",
+    "download": "https://github.com/YuraBuryakov/Comf_Plug/archive/refs/tags/mcp.zip"
+}
