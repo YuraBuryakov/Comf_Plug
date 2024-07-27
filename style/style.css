@@ -1,0 +1,12 @@
+#my-module-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  #my-module-button:hover {
+    background-color: #0056b3;
+  }
