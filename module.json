@@ -1,0 +1,18 @@
+{
+    "id": "comf-plug",
+    "title": "C P",
+    "description": "Test plugin for future comforttable plug",
+    "authors": [
+      {
+      "name": "Kalibrovka_anusa"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11"
+    },
+    "scripts": [
+        "scripts/main.js"
+    ]
+  }
